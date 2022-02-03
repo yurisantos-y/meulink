@@ -9,6 +9,10 @@ body{
   background-color: #132742;
 }
 
+body::-webkit-scrollbar{
+  display: none;
+}
+
 button{
   cursor: pointer;
 }
