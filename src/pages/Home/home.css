@@ -37,7 +37,7 @@
 /*Animação subindo area input*/
 @keyframes slideY {
     from{
-        transform: translateY(90px);
+        transform: translateY(80px);
     }
     to{
         transform: translateY(0px);
