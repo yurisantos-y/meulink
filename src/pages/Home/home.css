@@ -31,13 +31,13 @@
     flex-direction: column;
     align-items: center;
     animation: slideY 1s;
-    padding-bottom: 150px;
+    padding-bottom: 140px;
 }
 
 /*Animação subindo area input*/
 @keyframes slideY {
     from{
-        transform: translateY(80px);
+        transform: translateY(90px);
     }
     to{
         transform: translateY(0px);
